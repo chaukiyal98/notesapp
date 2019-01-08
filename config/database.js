@@ -1,4 +1,4 @@
- module.exports = {mongoURI: 'mongodb://Radhey:Radhey1@ds127634.mlab.com:27634/mfirst-app'};
+ module.exports = {mongoURI: 'mongodb://naman:naman1@ds127634.mlab.com:27634/mfirst-app'};
 
 /*
 if(process.env.NODE_ENV === 'production'){
